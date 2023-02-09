@@ -1,0 +1,3 @@
+/Users/Ivan/CLionProjects/yandexTask/cmake-build-debug/CMakeFiles/yandexTask.dir
+/Users/Ivan/CLionProjects/yandexTask/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Ivan/CLionProjects/yandexTask/cmake-build-debug/CMakeFiles/rebuild_cache.dir
